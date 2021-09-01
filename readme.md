@@ -1,6 +1,6 @@
 # HelloWorld
 
-[![Laravel workflow](https://github.com/cgreuling/hello-world/actions/workflows/laravel/badge.svg)]
+![Laravel workflow](https://github.com/cgreuling/hello-world/actions/workflows/laravel/badge.svg)
 
 This is where your description should go. Take a look at [contributing.md](contributing.md) to see a to do list.
 
