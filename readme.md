@@ -9,7 +9,7 @@ This is where your description should go. Take a look at [contributing.md](contr
 
 ## Installation
 
-Via Composer
+Via Composer 2
 
 ``` bash
 $ composer require cgreuling/hello-world
