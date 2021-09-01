@@ -1,9 +1,9 @@
 # HelloWorld
 
 ![Laravel workflow](https://github.com/cgreuling/hello-world/actions/workflows/laravel.yml/badge.svg)
-[![Latest Stable Version](http://poser.pugx.org/phpunit/phpunit/v)](https://packagist.org/packages/cgreuling/hello-world)
-[![Latest Unstable Version](http://poser.pugx.org/phpunit/phpunit/v/unstable)](https://packagist.org/packages/cgreuling/hello-world)
-[![Total Downloads](http://poser.pugx.org/phpunit/phpunit/downloads)](https://packagist.org/packages/cgreuling/hello-world)
+[![Latest Stable Version](http://poser.pugx.org/cgreuling/hello-world/v)](https://packagist.org/packages/cgreuling/hello-world)
+[![Latest Unstable Version](http://poser.pugx.org/cgreuling/hello-world/v/unstable)](https://packagist.org/packages/cgreuling/hello-world)
+[![Total Downloads](http://poser.pugx.org/cgreuling/hello-world/downloads)](https://packagist.org/packages/cgreuling/hello-world)
 [![License](http://poser.pugx.org/phpunit/phpunit/license)](https://packagist.org/packages/cgreuling/hello-world)
 
 This is where your description should go. Take a look at [contributing.md](contributing.md) to see a to do list.
